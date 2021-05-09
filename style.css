@@ -86,3 +86,25 @@ a:hover {
     padding: 5px;
     line-height: 10px;
 }
+
+.buttons {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    padding: 10px;
+}
+
+.buttons input {
+    margin: 5px;
+    padding: 10px;
+    color: #3b3b3b;
+    background-color: #eee;
+    border-color: #c0c0c0;
+    cursor: pointer;
+    border: 1px solid #fff;
+    border-radius: 5px;
+}
+
+.buttons input:hover {
+    border: 1px solid #c0c0c0;
+}
