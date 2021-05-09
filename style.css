@@ -1,0 +1,26 @@
+.google-logo {
+    margin: auto;
+    width: 500px;
+    padding: 10px;
+    padding-top: 200px;
+}
+
+.search-bar {
+    margin: auto;
+}
+
+#search {
+    width: 50vw;
+    max-width: 500px;
+    height: 40px;
+    margin: 20px;
+    border: 1px solid #e1e1e1;
+    padding: 0 40px;
+    border-radius: 50px;
+}
+
+#search:hover, #search:active, #search:focus {
+    border-radius: 50px;
+    box-shadow: 0px 1.7px 5px #dfdfdf;
+    outline: none;
+}
