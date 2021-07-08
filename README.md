@@ -1,6 +1,6 @@
 # Google Homepage
 ## About this project
-I made this website to underatand basics of HTML and styling it with CSS
+I made this website to refresh my knowledge of HTML and styling it with CSS.
 
 ## What I learned
 - Working with GIT version control system
